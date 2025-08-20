@@ -1,0 +1,19 @@
+{
+  "name": "fitness_workeer_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Akkshat Bhandari",
+  "license": "ISC",
+  "description": "This is the simple backend API for the fitness tracker without any sort of database core implementation...",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.2"
+  }
+}
